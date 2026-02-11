@@ -13,7 +13,6 @@ export const Button: React.FC<
         shadow-lg hover:shadow-xl
         transition-all duration-300
         transform hover:scale-105 active:scale-95
-        disabled:opacity-50 disabled:cursor-not-allowed
         disabled:hover:scale-100
         ${className}
       `}

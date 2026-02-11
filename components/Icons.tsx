@@ -10,7 +10,7 @@ type IconSvgProps = {
 };
 
 export function GithubIcon({
-  size = 24,
+  size = 48,
   width,
   height,
   ...props

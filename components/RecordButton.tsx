@@ -75,7 +75,7 @@ export default function RecordButton({
       onMouseDown={startRecording}
       onMouseUp={stopRecording}
     >
-      {isRecording ? "Recording…" : "Hold to Speak"}
+      {isRecording ? "Recording…" : "Hold to Speak!"}
     </button>
   );
 }

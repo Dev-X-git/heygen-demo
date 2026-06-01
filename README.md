@@ -21,7 +21,7 @@ Feel free to play around with the existing code and please leave any feedback fo
 
 5. (Optional) If you would like to use the OpenAI features, enter your OpenAI Api Key in the `.env` file.
 
-6. Run `npm run dev`
+6. Run `npm run dev`.
 
 ### Starting sessions
 
